@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Hexotest
 subtitle: ''
-description: ''
+description: the test
 keywords:
-author: John Doe
+author: triumphs6
 language: en
 timezone: ''
 
@@ -97,11 +97,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: yxf
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
     type: git
-    repo: https://github.com/Triumphs6/Triumphs6.github.io.git
+    repo: https://github.com/Triumphs6/triumphs6.github.io.git
     branch: master
